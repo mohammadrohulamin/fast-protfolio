@@ -18,7 +18,7 @@ section{
 .haf-width img{
     width: 80%;
 }
-.hire-link{
+.link-batton{
     text-decoration: none;
     background-image: linear-gradient( orange, rgb(161, 27, 27));
     color: white;
@@ -29,4 +29,10 @@ section{
 .top-banner{
     background-image: url(images/top-banner.png);
     background-repeat: no-repeat;
+}
+
+.dream-big{
+    background-image: url(images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
 }
